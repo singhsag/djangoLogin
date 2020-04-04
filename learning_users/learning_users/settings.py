@@ -142,4 +142,8 @@ MEDIA_URL = '/media/'
 
 LOGIN_URL ='/basic_app/user_login/'
 
-ALLOWED_HOSTS = ['community.pythonanywhere.com', '127.0.0.1']
+ALLOWED_HOSTS = [
+        'community.pythonanywhere.com',
+        '127.0.0.1',
+        'sagarsingh91.pythonanywhere.com',
+    ]
